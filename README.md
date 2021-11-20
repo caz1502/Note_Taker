@@ -57,7 +57,9 @@ THEN I am presented with empty fields to enter a new note title`
 
 ![Note Maker](./public/assets/images/Note_Taker.png)
 
-Watch the application here  👀  https://www.youtube.com/watch?v=WE533YI8i94
+Watch the application here  👀  
+[Watch the application here](https://www.youtube.com/watch?v=WE533YI8i94)
+
 
 ## License
 
