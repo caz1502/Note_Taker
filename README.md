@@ -1,13 +1,15 @@
 # Note_Taker
 
-![License](https://img.shields.io/static/v1?label=License&message=MIT&color=blue)
+![License](https://img.shields.io/static/v1?label=License&message=MIT&color=blue)  (https://img.shields.io/static/v1?label=<DEPLOYED>&message=<HEROKU>&color=<blue>)
+
+[Live Application](https://frozen-taiga-69640.herokuapp.com/)
 
 
 ## Description
 
 ```md
 
-text required here
+Note taker app, allows the user to creates notes, with a title and a body. The user can save and delete the notes as required
 
 ```
 
@@ -51,42 +53,52 @@ THEN I am presented with empty fields to enter a new note title`
 ## Langauages
 
 ```
+[![JavaScript](	https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 
-![JavaScript](	https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) 
-update required here
+
 ```
 
-## Applications
+## Applications / Platforms /Registeries
 
 ```
-update required here
+[![Visual Studio Code](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/) [![Npm](https://badgen.net/badge/icon/npm?icon=npm&label)](https://https://npmjs.com/) ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+HEROKU
+INSOMNIA
+
+
+(https://img.shields.io/static/v1?label=&message=<HEROKU>&color=<blue>)
+
+Node Js
+
 ```
-
-
 ## Images / Video
 
 ```
+![Note Maker](./public/assets/images/Note_Taker.png)
 
-update required here
+[Youtube](https://www.youtube.com/watch?v=WE533YI8i94)
+
 ```
 
 ## License
-```
 
+```
   [MIT](https://opensource.org/licenses/MIT/)
+
 ```
 
 
 ## Authors, Acknowledgement, & Resources 🤝
 
 ```md
-update required here
 
 Teaching Crew at UniSA Coding Bootcamp 🎉
-W3Schools 
 GitHub 
 Google
-Canva - Photo editing
+Canva 
+SnagIt Video
+Windows 10 Photo editor
+
 ```
 
 
