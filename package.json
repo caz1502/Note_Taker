@@ -1,0 +1,35 @@
+{
+  "name": "note-taker-bootcamp-caz1502",
+  "version": "1.0.0",
+  "description": "![License](https://img.shields.io/static/v1?label=License&message=MIT&color=blue)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caz1502/note-taker-bootcamp-caz1502.git"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "Carol Shiers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/caz1502/note-taker-bootcamp-caz1502/issues"
+  },
+  "homepage": "https://github.com/caz1502/note-taker-bootcamp-caz1502#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "inquirer": "^8.2.0",
+    "node": "^17.1.0",
+    "path": "^0.12.7",
+    "sql": "^0.78.0"
+  },
+  "engines":{
+    "node": "^17.1.0"
+  },
+  "devDependencies": {}
+}
