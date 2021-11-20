@@ -2,7 +2,7 @@
 
 ![License](https://img.shields.io/static/v1?label=License&message=MIT&color=green)  ![Deployed](https://img.shields.io/static/v1?label=DEPLOYED&message=HEROKU&color=blue)
 
-Live Application Link  👀  (*https://frozen-taiga-69640.herokuapp.com/*)
+Live Application Link  👀  ![Link](https://frozen-taiga-69640.herokuapp.com/)
 
 
 ## The Task
